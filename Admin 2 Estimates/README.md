@@ -1,1 +1,7 @@
 # Admin 2 Estimates
+
+From https://spatialdata.dhsprogram.com/local-data-mapping-tool/ :
+
+> The Local Data Mapping Tool allows users to compare estimates of key DHS survey indicators at three different geographic levels: 1) first subnational administrative level (Admin 1), 2) second subnational administrative level (Admin 2), and 3) 5 X 5 km resolution. Indicator estimates for each geographic level are produced using different methodologies. Admin 1 estimates come from DHS surveys which are typically powered to provide indicator estimates at this level. The DHS Program uses a geospatial modeling approach to produce indicator estimates at a 5 x 5 km resolution, and then uses a population-weighted approach to aggregate these estimates to the Admin 2 level. At the Admin 2 and 5 x 5km levels, users can also choose between viewing the indicator estimates, the population count affected, and the widths of the 95% uncertainty intervals. For guidance on using the Admin 2 estimates, please see the brief [Admin 2 Estimates: Introduction and Guidance for Use](/Spatial%20Analysis%20Reports/OD83.pdf) or the more detailed [Spatial Analysis Report 20](/Spatial%20Analysis%20Reports/SAR20.pdf).
+>
+> Each survey download package contains a table of the admin 2 indicator, population, and uncertainty estimates, a table of the admin 1 estimates, an admin 2 shapefile with the indicator, population, and uncertainty estimates, the 5 x 5 km modeled surfaces for each indicator, and documentation.
